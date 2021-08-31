@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(74,71,74);
+    color: antiquewhite;
+}
+
+.jumbo-color {
+    background-color: rgb(83,81,81);
+}
+
+.form-control {
+    background-color: rgb(177, 168, 168);
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.nav-link {
+    width: fit-content;
+    text-align: center;
+}
+
+.nav-item {
+    margin: 5px;
+}
+
+.bi {
+    margin: 2px;
+}
